@@ -6,3 +6,7 @@
 * A CoAtNet model overcame the problem of overfitting by showing 0.87 training accuracy and 0.85 testing accuracy for only 3,000 images. Since the SageMaker did not support the Tensorflow version we were using, we could not run the whole training data for the CoAtNet model. However the learning curve did not show any sign of overfitting, which indicated a promising result for this model.
 
 * All files are jupytor notebooks, which is in the main folder. 
+
+![](images/resnet_partial.png)
+
+![](images/coatnet_partial.png)
